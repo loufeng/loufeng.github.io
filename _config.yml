@@ -4,14 +4,14 @@ SEOTitle: 小锋的博客 | BY Blog
 header-img: img/post-bg-desk.jpg
 email: loufengprimer@gmail.com
 description: "晾干各种水货，俗称干货"
-keyword: "BY, BY Blog, 小锋的博客, lafeloy, 楼锋, java, python, sql"
+keyword: "小锋的博客, lafeloy, 楼锋, java, python, sql"
 url: "http://loufeng.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/loufeng/loufeng.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Goals determine what you going to be!"
+sidebar-about-description: "晾干各种水货，俗称干货!"
 sidebar-avatar: img/IMG_0491.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
