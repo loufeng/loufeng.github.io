@@ -92,8 +92,8 @@ service-worker: true
 
 
 # Friends
-friends: [
+# friends: [
     
-]
+# ]
 
 theme: jekyll-theme-slate
