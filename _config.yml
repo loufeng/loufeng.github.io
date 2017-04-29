@@ -1,5 +1,5 @@
 # Site settings
-title: BY Blog
+title: lalala~
 SEOTitle: 小锋的博客 | BY Blog
 header-img: img/post-bg-desk.jpg
 email: loufengprimer@gmail.com
@@ -19,10 +19,10 @@ sidebar-avatar: img/IMG_0491.jpg      # use absolute URL, seeing it's used in bo
 # SNS settings
 RSS: false
 # weibo_username:     loufeng
-zhihu_username:     loufeng
+zhihu_username:     loufeng_teck
 github_username:    loufeng
-facebook_username:  loufeng
-jianshu_username:   e71990ada2fd
+#facebook_username:  loufeng
+jianshu_username:   1caab01245c0
 #twitter_username:   loufeng
 
 
@@ -69,11 +69,11 @@ disqus_username: loufeng
 
 # Analytics settings
 # Baidu Analytics
-ba_track_id: b50bf2b12b5338a1845e33832976fd68
+#ba_track_id: b50bf2b12b5338a1845e33832976fd68
 
 # Google Analytics
-ga_track_id: 'UA-90855596-1'            # Format: UA-xxxxxx-xx
-ga_domain: auto
+#ga_track_id: 'UA-90855596-1'            # Format: UA-xxxxxx-xx
+#ga_domain: auto
 
 
 
@@ -93,19 +93,7 @@ service-worker: true
 
 # Friends
 friends: [
-    {
-        title: "WY",
-        href: "http://zhengwuyang.com"
-    },{
-        title: "简书·BY",
-        href: "http://www.jianshu.com/u/e71990ada2fd"
-    },{
-        title: "Apple",
-        href: "https://apple.com"
-    },{
-        title: "Apple Developer",
-        href: "https://developer.apple.com/"
-    }
+    
 ]
 
 theme: jekyll-theme-slate
