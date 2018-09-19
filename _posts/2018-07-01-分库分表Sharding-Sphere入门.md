@@ -14,9 +14,6 @@ tags:
 一、Sharding-Sphere是一套开源的分布式数据库中间件解决方案组成的生态圈，它由Sharding-JDBC、Sharding-Proxy和Sharding-Sidecar
 
 + [官方地址](http://shardingsphere.io/document/current/cn/overview/)
-
-
-+ [souche示例地址](https://git.souche-inc.com/loufeng/sharding-demo)
 + [demo地址](https://github.com/tuohai666/sharding-sphere-example)
 
 ------
