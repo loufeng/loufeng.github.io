@@ -167,7 +167,7 @@ tags:
 
 ------
 
-四、涉及技术
+四、参考学习
 
 + [全局ID](https://www.jianshu.com/p/32b3e91aa22c)
 + [分库分表](https://www.jianshu.com/p/32b3e91aa22c)
